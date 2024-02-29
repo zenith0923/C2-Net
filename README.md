@@ -36,7 +36,7 @@ dataset_path: #your_dataset_directory
 ```
  -->
 
-### Train and test
+### Train
 Running the shell script ```run.sh``` will train and evaluate the model with hyperparameters matching our paper.
 
 
