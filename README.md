@@ -1,5 +1,6 @@
 # Cross-Layer and Cross-Sample Feature Optimization Network for Few-Shot Fine-Grained Image Classification
 
+![Alt text](./figure/model_overall.png)
 
 ## Data Preparation
 
