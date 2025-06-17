@@ -9,9 +9,9 @@ The following datasets are used in our paper:
 
 Stanford Dogs: [Dataset Page](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
-Stanford Cars: [Dataset Page](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)
+Stanford Cars: [Dataset Page](https://drive.google.com/file/d/1ImEPQH5gHpSE_Mlq8bRvxxcUXOwdHIeF/view)
 
-CUB_200_2011: [Dataset Page](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html)
+CUB_200_2011: [Dataset Page](https://www.vision.caltech.edu/datasets/cub_200_2011/)
 
 iNaturalist2017 : [Dataset Page](https://github.com/visipedia/inat_comp/tree/master/2017)
 
